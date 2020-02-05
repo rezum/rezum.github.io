@@ -1,0 +1,31 @@
+
+
+
+
+html {
+	background-color: lightblue;
+}
+
+img {
+	background-color: lightblue;
+}
+
+.center{
+	position: relative;
+	margin: 0;
+    font-family: monospace;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.pic{
+
+  position: relative;
+  background-color: lightblue;
+  bottom: -2px;
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  margin:0px 0 0 0px;
+
+}
