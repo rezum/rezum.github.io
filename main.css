@@ -29,3 +29,14 @@ img {
   margin:0px 0 0 0px;
 
 }
+
+.maincontainer{
+	position: relative;
+	margin: auto;
+	border-radius: 15px;
+	width: 60%;
+	padding: 30px;
+	background-color: #E1E8EE;
+	align-items: center;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
