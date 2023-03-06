@@ -3,11 +3,11 @@
 
 
 html {
-	background-color: lightblue;
+	background-color: white;
 }
 
 img {
-	background-color: lightblue;
+	background-color: white;
 }
 
 .center{
@@ -15,7 +15,7 @@ img {
 	margin: 0;
     font-family: monospace;
     text-align: center;
-    background-color: lightblue;
+    background-color: white;
 }
 
 .pic{
