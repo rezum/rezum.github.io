@@ -16,8 +16,12 @@ img {
     font-family: monospace;
     text-align: center;
     background-color: white;
-}
 
+}
+.box{
+	display:flex;
+	justify-content: center;
+}
 .pic{
 
   position: relative;
