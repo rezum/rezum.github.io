@@ -1,1 +1,10 @@
 
+
+.center{
+	position: relative;
+	margin: 0;
+    font-family: monospace;
+    text-align: center;
+    background-color: white;
+
+}
