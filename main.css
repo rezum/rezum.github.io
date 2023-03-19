@@ -17,5 +17,5 @@
 }
 
 @media only screen and (max-width: 900px) {
-	img{100%}	
+	.topper{width:100%}	
 }
